@@ -39,18 +39,18 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="..\AdventOfCode_old\Day1\Day1.cs" />
-    <Compile Include="..\AdventOfCode_old\Day2\Day2Part1.cs" />
-    <Compile Include="..\AdventOfCode_old\Day2\Day2Part2.cs" />
-    <Compile Include="..\AdventOfCode_old\Day3\Day3Part1.cs" />
-    <Compile Include="..\AdventOfCode_old\Day3\Day3Part2.cs" />
-    <Compile Include="..\AdventOfCode_old\Day3\Square.cs" />
-    <Compile Include="..\AdventOfCode_old\Day4\Day4Part1.cs" />
-    <Compile Include="..\AdventOfCode_old\Day4\Day4Part2.cs" />
-    <Compile Include="..\AdventOfCode_old\Day5\Day5Part1.cs" />
-    <Compile Include="..\AdventOfCode_old\Day5\Day5Part2.cs" />
-    <Compile Include="..\AdventOfCode_old\Day6\Day6Part1.cs" />
-    <Compile Include="..\AdventOfCode_old\Day6\Day6Part2.cs" />
+    <Compile Include="Day1\Day1.cs" />
+    <Compile Include="Day2\Day2Part1.cs" />
+    <Compile Include="Day2\Day2Part2.cs" />
+    <Compile Include="Day3\Day3Part1.cs" />
+    <Compile Include="Day3\Day3Part2.cs" />
+    <Compile Include="Day3\Square.cs" />
+    <Compile Include="Day4\Day4Part1.cs" />
+    <Compile Include="Day4\Day4Part2.cs" />
+    <Compile Include="Day5\Day5Part1.cs" />
+    <Compile Include="Day5\Day5Part2.cs" />
+    <Compile Include="Day6\Day6Part1.cs" />
+    <Compile Include="Day6\Day6Part2.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
