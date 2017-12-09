@@ -115,6 +115,7 @@ csx
 AppPackages/
 
 # Others
+.idea/
 *.Cache
 ClientBin/
 [Ss]tyle[Cc]op.*
