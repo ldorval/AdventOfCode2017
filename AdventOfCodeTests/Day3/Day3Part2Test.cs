@@ -7,12 +7,6 @@ namespace AdventOfCode.Day3
     public class Day3Part2Test
     {
         [Test]
-        public void Example1()
-        {
-            var day3 = new Day3Part2(5);
-        }
-
-        [Test]
         public void Solution()
         {
             var day3 = new Day3Part2(361527);

@@ -52,6 +52,8 @@
     <Compile Include="Day5\Day5Test.cs" />
     <Compile Include="Day6\Day6Part2Test.cs" />
     <Compile Include="Day6\Day6Part1Test.cs" />
+    <Compile Include="Day9\Day9Part1Test.cs" />
+    <Compile Include="Day9\Day9Part2Test.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -70,6 +72,9 @@
       <Project>{CE40A994-2849-4871-8197-4ACF5F19C53C}</Project>
       <Name>AdventOfCode</Name>
     </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Day9\Day9.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
